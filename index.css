@@ -23,6 +23,7 @@ h2 {
     position: relative;
     padding-top: 1em;
     min-height: 550px;
+    /* margin-bottom: 0rem; */
 }
 
 .card {
